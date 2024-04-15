@@ -409,7 +409,6 @@
 "Assets/PostProcessingVolume/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs"
 "Assets/PostProcessingVolume/PostProcessing/Utilities/FocusPuller.cs"
 "Assets/PostProcessingVolume/PostProcessing/Utilities/PostProcessingController.cs"
-"Assets/Scripts/HologramGlitcher.cs"
 -langversion:9.0
 
 /deterministic
