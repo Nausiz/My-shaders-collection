@@ -1350,8 +1350,9 @@ GameObject:
   - component: {fileID: 834337436}
   - component: {fileID: 834337435}
   - component: {fileID: 834337434}
+  - component: {fileID: 834337437}
   m_Layer: 0
-  m_Name: SphereHologram (5)
+  m_Name: SphereHologram_v5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1405,7 +1406,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 461b8d33fcb7bc64b839327c418e61b8, type: 2}
+  - {fileID: 2100000, guid: e622443dba059f441bc1702e75b07ee1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1435,6 +1436,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 834337432}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &834337437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834337432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0605bb6ad388f7f4cafbdd0e0ac5fdf3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  glitchIntensity: 0.04
 --- !u!1 &932701138
 GameObject:
   m_ObjectHideFlags: 0
@@ -1742,8 +1756,9 @@ GameObject:
   - component: {fileID: 966191657}
   - component: {fileID: 966191656}
   - component: {fileID: 966191655}
+  - component: {fileID: 966191658}
   m_Layer: 0
-  m_Name: SphereHologram (1)
+  m_Name: SphereHologram_v2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1797,7 +1812,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 461b8d33fcb7bc64b839327c418e61b8, type: 2}
+  - {fileID: 2100000, guid: 63ea4c216361a1749ac774c65c3780da, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1827,6 +1842,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966191653}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &966191658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 966191653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc57695ebfbbbff45b5ed69332cb2d7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  glitchIntensity: 0.02
+  glitchSpeed: 0.3
 --- !u!1 &967475627
 GameObject:
   m_ObjectHideFlags: 0
@@ -2674,7 +2703,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1236607714}
   m_Layer: 0
-  m_Name: ShadersPanels
+  m_Name: ShaderPanels
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3052,7 +3081,7 @@ GameObject:
   - component: {fileID: 1771942855}
   - component: {fileID: 1771942854}
   m_Layer: 0
-  m_Name: SphereHologram (4)
+  m_Name: SphereHologram_v4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3106,7 +3135,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 461b8d33fcb7bc64b839327c418e61b8, type: 2}
+  - {fileID: 2100000, guid: 749b19ff4c9498d42af1dbcdda2563f5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3283,7 +3312,7 @@ GameObject:
   - component: {fileID: 1836552748}
   - component: {fileID: 1836552747}
   m_Layer: 0
-  m_Name: SphereHologram (2)
+  m_Name: SphereHologram_v3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3337,7 +3366,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 461b8d33fcb7bc64b839327c418e61b8, type: 2}
+  - {fileID: 2100000, guid: f071a6ace8dbff64aa0391bc487b43c6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
