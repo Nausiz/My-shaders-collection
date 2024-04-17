@@ -77,3 +77,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /My shaders collection/My shaders collection/Library/Artifacts
 /My shaders collection/My shaders collection/Library/Bee
+*.log
+/My shaders collection/My shaders collection/Logs
