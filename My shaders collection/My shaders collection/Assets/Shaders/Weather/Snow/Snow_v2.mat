@@ -79,7 +79,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _HeightMultiplier: 30
+    - _HeightMultiplier: 50
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -88,7 +88,7 @@ Material:
     - _SnowGloss: 0.5
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TrailBlendingCap: 0.5
+    - _TrailBlendingCap: 50
     - _TrailGloss: 0.5
     - _TrailRadius: 0.5
     - _UVSec: 0
