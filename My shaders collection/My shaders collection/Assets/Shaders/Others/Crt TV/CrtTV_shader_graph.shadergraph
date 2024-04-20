@@ -130,7 +130,11 @@
             "m_Id": "b60acc6e69484a35a0d6955b9945f9a6"
         }
     ],
-    "m_GroupDatas": [],
+    "m_GroupDatas": [
+        {
+            "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
+        }
+    ],
     "m_StickyNoteDatas": [],
     "m_Edges": [
         {
@@ -650,7 +654,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "0139c577648949f7a2175eefb618c561",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -810,6 +814,17 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "060cd383b42e4a64836e2c7b4a9cc5b9",
+    "m_Title": "Pixels Colors and Properties",
+    "m_Position": {
+        "x": 10.0,
+        "y": 10.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector2MaterialSlot",
     "m_ObjectId": "0947e54d0df046d395dad62d74dc27aa",
     "m_Id": 1,
@@ -858,7 +873,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "0ad3d85157ef4a8e94033894fe15394a",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -1103,17 +1118,17 @@
     "m_Type": "UnityEditor.ShaderGraph.SubGraphNode",
     "m_ObjectId": "2b1447df1cfc4982aeb2646024b73bdc",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "LED",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 199.0000457763672,
-            "y": 266.0000305175781,
-            "width": 237.9999237060547,
-            "height": 398.9999084472656
+            "x": 199.0,
+            "y": 266.0,
+            "width": 238.00003051757813,
+            "height": 399.00006103515627
         }
     },
     "m_Slots": [
@@ -1518,7 +1533,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "5a02ba5fcab247f398e3d632c52c6bed",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -2168,7 +2183,7 @@
     "m_Type": "UnityEditor.ShaderGraph.SubGraphNode",
     "m_ObjectId": "a0714988c9cf4264abf06f896eed3af6",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "LED",
     "m_DrawState": {
@@ -2252,7 +2267,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "a269d8a5bed740d5b9523da4f3e4a3cd",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -2411,7 +2426,7 @@
     "m_Type": "UnityEditor.ShaderGraph.SubGraphNode",
     "m_ObjectId": "ae5fbc81a76e4e09b4cc50f8ebd068a9",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "LED",
     "m_DrawState": {
@@ -2618,7 +2633,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "bf74268508fb4100afbe628d8c85885c",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -2750,7 +2765,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "c39bcaf0d98845d7bd2598746dcb50d4",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -2833,7 +2848,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "c6a660705b804d858493a5abdb682b62",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -3054,7 +3069,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "d565b9823d854df195e96b79b3817654",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -3496,7 +3511,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "ebe1a6bb837f463dab19020679f6600e",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "060cd383b42e4a64836e2c7b4a9cc5b9"
     },
     "m_Name": "Property",
     "m_DrawState": {
