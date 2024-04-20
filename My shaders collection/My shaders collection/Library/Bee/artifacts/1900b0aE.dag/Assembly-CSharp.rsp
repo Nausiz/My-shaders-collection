@@ -370,6 +370,7 @@
 "Assets/Samples/Universal RP/12.1.13/URP Package Samples/SharedAssets/Scripts/AutoLoadPipelineAsset.cs"
 "Assets/Samples/Universal RP/12.1.13/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs"
 "Assets/Scripts/CameraController.cs"
+"Assets/Scripts/CubeMovement.cs"
 "Assets/Scripts/Holograms/HologramGlitch_v1.cs"
 "Assets/Scripts/Holograms/HologramGlitch_v2.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
