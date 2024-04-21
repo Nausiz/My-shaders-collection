@@ -79,24 +79,24 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _HeightMultiplier: 50
+    - _HeightMultiplier: 100
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
-    - _SnowGloss: 0.5
+    - _SnowGloss: 2.19
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _TrailBlendingCap: 50
-    - _TrailGloss: 0.5
+    - _TrailGloss: 2.4
     - _TrailRadius: 0.5
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _TrailColor: {r: 0, g: 0, b: 0, a: 0}
+    - _TrailColor: {r: 0.09594162, g: 0.35126367, b: 0.41509432, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &661337546310387749
 MonoBehaviour:

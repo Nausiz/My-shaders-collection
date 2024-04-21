@@ -79,3 +79,6 @@ crashlytics-build.properties
 /My shaders collection/My shaders collection/Library/Bee
 *.log
 /My shaders collection/My shaders collection/Logs
+/My shaders collection/My shaders collection/Library/ShaderCache/builtin
+/My shaders collection/My shaders collection/Library/ShaderCache
+/My shaders collection/My shaders collection/Logs
