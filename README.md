@@ -1,7 +1,7 @@
 
 # My Shaders Collection
 
-The My Shaders Collection repository hosts a diverse array of shaders tailored for enhancing learning and skills development in Unity's visual effects creation. Each shader in this repository is fully customizable, offering developers the opportunity to experiment and innovate, fostering the creation of unique visual effects tailored to their specific project needs. Dive into the exciting realm of visual effects creation in Unity and unleash your creativity with the My Shaders Collection.
+The My Shaders Collection repository hosts a diverse array of shaders tailored for enhancing learning and skills development in Unity's visual effects creation. Each shader in this repository is fully customizable, offering developers the opportunity to experiment and innovate, fostering the creation of unique visual effects tailored to their specific project needs.
 
 
 
