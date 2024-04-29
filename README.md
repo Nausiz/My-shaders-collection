@@ -70,3 +70,9 @@ The surface shader section of my collection offers a diverse range of shaders ta
 - Ice: Transform surfaces into icy landscapes with shaders that replicate the translucent, crystalline appearance of ice, capturing the shimmering beauty of frozen environments.
 
 ![Alt text](https://github.com/Nausiz/My-shaders-collection/blob/main/My%20shaders%20collection/My%20shaders%20collection/Assets/Screens/surfaces.png)
+
+### Sources
+- [Brackeys](https://www.youtube.com/@Brackeys)
+- [Daniel Ilett](https://www.youtube.com/@danielilett)
+- [Gabriel Aguiar Prod.](https://www.youtube.com/@GabrielAguiarProd)
+- [Binary Lunar](https://www.youtube.com/@BinaryLunar)
